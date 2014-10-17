@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[luf:home|Door43 (luf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-luf|d43-luf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-luf/archive/master.zip|d43-luf.zip]]
+
+**Recent Changes**
+{{changes>ns = luf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/luf|Ethnologue data]]
+
